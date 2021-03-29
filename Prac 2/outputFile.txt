@@ -1,0 +1,259 @@
+Starting price: $10.00
+On day 1, $10.54
+
+On day 2, $11.35
+
+On day 3, $12.51
+
+On day 4, $13.19
+
+On day 5, $12.65
+
+On day 6, $12.50
+
+On day 7, $12.50
+
+On day 8, $12.57
+
+On day 9, $12.04
+
+On day 10, $11.56
+
+On day 11, $13.12
+
+On day 12, $14.74
+
+On day 13, $16.15
+
+On day 14, $15.65
+
+On day 15, $18.07
+
+On day 16, $17.18
+
+On day 17, $16.97
+
+On day 18, $16.17
+
+On day 19, $16.79
+
+On day 20, $16.47
+
+On day 21, $17.36
+
+On day 22, $17.34
+
+On day 23, $17.31
+
+On day 24, $17.02
+
+On day 25, $16.22
+
+On day 26, $18.49
+
+On day 27, $18.01
+
+On day 28, $20.23
+
+On day 29, $19.85
+
+On day 30, $23.05
+
+On day 31, $22.09
+
+On day 32, $21.65
+
+On day 33, $21.62
+
+On day 34, $22.47
+
+On day 35, $22.11
+
+On day 36, $21.59
+
+On day 37, $20.56
+
+On day 38, $22.97
+
+On day 39, $22.14
+
+On day 40, $23.06
+
+On day 41, $22.79
+
+On day 42, $22.53
+
+On day 43, $24.15
+
+On day 44, $24.93
+
+On day 45, $27.40
+
+On day 46, $28.08
+
+On day 47, $26.86
+
+On day 48, $25.63
+
+On day 49, $26.18
+
+On day 50, $28.13
+
+On day 51, $28.09
+
+On day 52, $31.26
+
+On day 53, $30.41
+
+On day 54, $30.17
+
+On day 55, $30.81
+
+On day 56, $29.68
+
+On day 57, $34.49
+
+On day 58, $34.34
+
+On day 59, $34.12
+
+On day 60, $34.30
+
+On day 61, $38.73
+
+On day 62, $38.40
+
+On day 63, $36.68
+
+On day 64, $36.67
+
+On day 65, $42.18
+
+On day 66, $41.04
+
+On day 67, $39.82
+
+On day 68, $39.94
+
+On day 69, $42.05
+
+On day 70, $41.63
+
+On day 71, $40.62
+
+On day 72, $46.25
+
+On day 73, $47.24
+
+On day 74, $52.42
+
+On day 75, $50.71
+
+On day 76, $52.81
+
+On day 77, $57.17
+
+On day 78, $55.10
+
+On day 79, $54.24
+
+On day 80, $52.65
+
+On day 81, $50.31
+
+On day 82, $54.11
+
+On day 83, $54.84
+
+On day 84, $54.15
+
+On day 85, $57.51
+
+On day 86, $60.83
+
+On day 87, $65.00
+
+On day 88, $62.57
+
+On day 89, $69.74
+
+On day 90, $69.12
+
+On day 91, $70.78
+
+On day 92, $79.57
+
+On day 93, $75.94
+
+On day 94, $74.54
+
+On day 95, $72.45
+
+On day 96, $76.86
+
+On day 97, $74.18
+
+On day 98, $71.45
+
+On day 99, $68.80
+
+On day 100, $65.78
+
+On day 101, $63.48
+
+On day 102, $62.71
+
+On day 103, $60.96
+
+On day 104, $57.91
+
+On day 105, $55.19
+
+On day 106, $55.14
+
+On day 107, $54.47
+
+On day 108, $63.51
+
+On day 109, $69.99
+
+On day 110, $70.62
+
+On day 111, $76.44
+
+On day 112, $73.25
+
+On day 113, $70.25
+
+On day 114, $67.74
+
+On day 115, $70.75
+
+On day 116, $72.51
+
+On day 117, $73.63
+
+On day 118, $72.43
+
+On day 119, $76.35
+
+On day 120, $75.40
+
+On day 121, $72.52
+
+On day 122, $81.86
+
+On day 123, $79.84
+
+On day 124, $75.96
+
+On day 125, $87.47
+
+On day 126, $87.33
+
+On day 127, $85.47
+
+On day 128, $91.62
+
+On day 129, $104.85
+
