@@ -3,13 +3,12 @@ COLOURS_DICT = {'antiquewhite1': '#ffefdb', 'antiquewhite2': '#eedfcc', 'antique
                 'aquamarine4': '#458b74', 'azure1': '#f0ffff', 'azure2': '#e0eeee', 'azure3': '#c1cdcd'}
 
 print(COLOURS_DICT)
-user_choice = input("Colour:")
-while user_choice != '':
+user_colour_choice = input("Colour:")
+while user_colour_choice != '':
     try:
-        print("{} - {}".format(user_choice, COLOURS_DICT[user_choice]))
-        user_choice = input("Colour:")
+        print("{} - {}".format(user_colour_choice, COLOURS_DICT[user_colour_choice]))
     except KeyError:
-        print("{} does not exist".format(user_choice))
-        user_choice = input("Colour:")
+        print("{} does not exist".format(user_colour_choice))
+    user_colour_choice = input("Colour:")
 
 print("Thanks bye")

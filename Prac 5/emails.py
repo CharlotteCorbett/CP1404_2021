@@ -1,12 +1,12 @@
 """Incomplete program"""
 
-# emails_dict = {}
-
+# EMAILS_DICT = {}
+#
 # user_input = input("Email:")
 # while user_input != '':
 #     get_name()
 #     user_input = input("Email:")
-
-# for name in emails_dict:
-#     email = emails_dict([name])
+#
+# for name in EMAILS_DICT:
+#     email = EMAILS_DICT([name])
 #     print("{} {}".format(name, email))
