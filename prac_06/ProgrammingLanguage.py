@@ -10,4 +10,7 @@ class ProgrammingLanguage:
         self.typing = typing
         self.year = year
 
+    def __str__(self):
+        return "{}, {} Typing, Reflection={}, First appeared in {}".format(self.name, self.reflection, self.typing, self.year)
+
 
