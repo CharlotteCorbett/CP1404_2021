@@ -4,7 +4,7 @@
 class ProgrammingLanguage:
     """Intialise a language instance"""
 
-    def __init__(self, name, reflection, typing, year):
+    def __init__(self, name, typing, reflection, year):
         self.name = name
         self.reflection = reflection
         self.typing = typing
@@ -14,7 +14,8 @@ class ProgrammingLanguage:
         return "{}, {} Typing, Reflection={}, First appeared in {}".format(self.name, self.reflection, self.typing, self.year)
 
     def is_dynamic(self):
-        if self.typing == 'Dynamic':
-            return True
-        else:
-            return False
+        # if self.typing == 'Dynamic':
+        #     return True
+        # else:
+        #     return False
+        return self.typing.lower() == "dynamic"
