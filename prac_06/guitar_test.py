@@ -5,7 +5,7 @@ gibson_l5_ces = Guitar("Gibson L-5 CES", 1922, 16035.40)
 # non vintage guitar - 11 years
 michael_mc_dne = Guitar("Michael MC DNE", 2010, 20100.50)
 
-print("{} get_age() - Expected 98. Got {}"
+print("{} get_age() - Expected 99. Got {}"
       .format(gibson_l5_ces.name, gibson_l5_ces.get_age()))
 print("{} get_age() - Expected 11. Got {}"
       .format(michael_mc_dne.name, michael_mc_dne.get_age()))
